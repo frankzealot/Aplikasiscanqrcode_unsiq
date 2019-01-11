@@ -1,4 +1,4 @@
-# App Weather API with React-Native Android
+# QRCode scanner with React-Native Android
 ![Scan Disini](https://github.com/frankzealot/Aplikasiscanqrcode_unsiq/blob/master/qr.png)
 
 Scan QR Code diatas atau klik [SNACK.IO](https://snack.expo.io/@rahman5125/aplikasiscanbarcode_unsiq)
