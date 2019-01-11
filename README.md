@@ -1,8 +1,9 @@
 # App Weather API with React-Native Android
-![Scan Disini](https://github.com/RizaqDianAkmal/cuacaapp/blob/master/qr.png)
+![Scan Disini](https://github.com/frankzealot/Aplikasiscanqrcode_unsiq/blob/master/qr.png)
 
-Scan QR Code diatas atau klik [SNACK.IO](https://snack.expo.io/@rizaqdianakmal/cuaca-)
+Scan QR Code diatas atau klik [SNACK.IO](https://snack.expo.io/@rahman5125/aplikasiscanbarcode_unsiq)
 
 Tugas Mobile 2
-- [x] 2015150097
-- [x] Rizaq Dian Akmal
+- [x] Rahman Hidayat    (2015150083)
+- [x] Altan Asea Habie  (2015150059)
+- [x] Altan Asea Habie  (20151500)
